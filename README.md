@@ -25,7 +25,7 @@ Vulnerability #2: __________________
 
 Vulnerability #1: cross sight scripting 
 
-Vulnerability #2: __________________
+Vulnerability #2: username enumeration
 
 
 ## Red
